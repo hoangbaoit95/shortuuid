@@ -1,5 +1,5 @@
 {
-  "name": "shortuuid",
+  "name": "shortuuid2",
   "version": "0.1.0",
   "description": "A generator library for concise, unambiguous and URL-safe UUIDs",
   "repository": "trekjs/shortuuid",
